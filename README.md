@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Megharth/Megharth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Megharth's Github stats](https://github-readme-stats.vercel.app/api?username=megharth&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megharth&layout=compact&hide=php,html)](https://github.com/anuraghazra/github-readme-stats)
